@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500px" height="500px" viewBox="0 0 500 500" zoomAndPan="disable">
     <style type="text/css"><![CDATA[
 		line {
-			stroke: rgba(255,255,255,0.075);
-			stroke-width: 1px;
+			stroke: rgba(240, 50 , 50 , .5);
+			stroke-width: 5px;
 		}
     ]]></style>
 	<line x1="-450" y1="0" x2="50" y2="500" />
